@@ -1,34 +1,21 @@
-# Hi there, I'm Daniel! 👋
+# Hello!
 
-I'm a passionate developer who loves building creative solutions and exploring new technologies. I enjoy turning ideas into code and solving real-world problems through programming.
+I'm a data science graduate student passionate about building creative, data-driven solutions and exploring new technologies. I enjoy turning ideas into code and using data to solve real-world problems.
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](link-to-repo)
-Brief description of what this project does and why it's interesting. Maybe mention the problem it solves or the cool feature it has.
-- **Tech Stack**: React, Node.js, MongoDB
-- **Key Features**: Feature 1, Feature 2, Feature 3
-- [Live Demo](link-if-available) | [Repository](link-to-repo)
-
-### [Project Name 2](link-to-repo)
-Another project description highlighting what makes this one special or different from the first.
-- **Tech Stack**: Python, Flask, SQLite
-- **Key Features**: Feature 1, Feature 2, Feature 3
-- [Live Demo](link-if-available) | [Repository](link-to-repo)
-
-### [Project Name 3](link-to-repo)
-Third project showcasing different skills or technologies.
-- **Tech Stack**: JavaScript, HTML/CSS, API Integration
-- **Key Features**: Feature 1, Feature 2, Feature 3
-- [Live Demo](link-if-available) | [Repository](link-to-repo)
+### [Pediatric Appendicitis Prediction System](https://github.com/danieldema/appendicitis_analysis)
+A comprehensive machine learning solution for predicting appendicitis in pediatric patients, featuring model comparison, web deployment, and clinical decision support.
+- **Tech Stack**: Python, scikit-learn, pandas, Flask, HTML/CSS, Docker, Microsoft Azure
+- **Key Features**: 97% accuracy random forest, interactive HTML/CSS form, Flask backend/frontend integration, Docker containerization, Azure hosting
+- [Live Demo](https://appendicitisapp-dnf3btg7btapemd4.eastus-01.azurewebsites.net/) | [Repository](https://github.com/danieldema/appendicitis_analysis)
 
 ## 🛠️ Technologies & Tools
 
-**Languages**: JavaScript, Python, Java, HTML/CSS  
-**Frontend**: React, Vue.js, Bootstrap, Tailwind CSS  
-**Backend**: Node.js, Express, Flask, Django  
-**Databases**: MongoDB, PostgreSQL, MySQL  
-**Tools**: Git, Docker, VS Code, Figma  
+- **Languages**: Python, SQL, R, HTML/CSS
+- **Libraries & Frameworks**: scikit-learn, pandas, NumPy, Matplotlib, Flask
+- **Tools & Platforms**: Git, Docker, Jupyter Notebook, VS Code, RStudio, Microsoft Excel, LaTeX
+- **Databases & Cloud**: PostgreSQL, Supabase, Microsoft Azure, Retool 
 
 ## 📈 GitHub Stats
 
@@ -38,21 +25,17 @@ Third project showcasing different skills or technologies.
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns and performance optimization
-- Cloud deployment with AWS/Azure
 - Machine Learning fundamentals
+- Cloud deployment with Azure
 
 ## 🎯 What I'm Working On
 
-Currently building [current project name] - a [brief description of what you're working on now].
+Currently building [Warzone Sentiment Analysis] - a time-series analysis that uses natural language processing to assess trends in player perception of Activision's *Call of Duty: Warzone*.
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 🐦 [Twitter](your-twitter-url)
-- 📧 [Email](mailto:your-email@example.com)
-- 🌐 [Portfolio Website](your-website-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danieldema/)
+- 📧 [Email](mailto:danieldema42@gmail.com)
+- 🌐 [Portfolio Website](https://danieldema.github.io/)
 
 ---
-
-💡 *Always learning, always building, always excited about the next challenge!*
