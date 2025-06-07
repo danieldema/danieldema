@@ -25,7 +25,8 @@ A comprehensive machine learning solution for predicting appendicitis in pediatr
 
 ## Currently Learning
 
-- Machine Learning fundamentals
+- Natural language processing with NLTK
+- Time series methods with Prophet
 - Cloud deployment with Azure
 
 ## What I'm Working On
