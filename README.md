@@ -10,26 +10,12 @@ A comprehensive machine learning solution for predicting appendicitis in pediatr
 - **Key Features**: 97% accuracy random forest, interactive HTML/CSS form, Flask backend/frontend integration, Docker containerization, Azure hosting
 - [Live Demo](https://appendicitisapp-dnf3btg7btapemd4.eastus-01.azurewebsites.net/) | [Repository](https://github.com/danieldema/appendicitis_analysis)
 
-## Technologies & Tools
+## Tools & Software
 
 - **Languages**: Python, SQL, R, HTML/CSS
-- **Libraries & Frameworks**: scikit-learn, pandas, NumPy, Matplotlib, Flask
+- **Libraries & Frameworks**: scikit-learn, pandas, NumPy, Matplotlib, Flask, XGBoost
 - **Tools & Platforms**: Git, Docker, Jupyter Notebook, VS Code, RStudio, Microsoft Excel, LaTeX
 - **Databases & Cloud**: PostgreSQL, Supabase, Microsoft Azure, Retool 
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldema&layout=compact&theme=radical)
-
-## Currently Learning
-
-- Natural language processing with NLTK
-- Time series methods with Prophet
-- Cloud deployment with Azure
-
-## What I'm Working On
-
-Currently building [Warzone Sentiment Analysis] - a time-series analysis that uses natural language processing to assess trends in player perception of Activision's *Call of Duty: Warzone*.
 
 ## Let's Connect!
 
