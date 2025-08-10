@@ -5,7 +5,7 @@ I'm a data science graduate student. I enjoy using math and code to solve real w
 ## Featured Projects
 
 ### [Pediatric Appendicitis Prediction System](https://github.com/danieldema/appendicitis_analysis)
-A machine learning approach for predicting appendicitis in pediatric patients, featuring model comparison and web deployment of a 97% accuracy random forest model.
+A machine learning approach for predicting appendicitis in pediatric patients, featuring model comparison and web deployment of a 97% accurate random forest model.
 - **Tech Stack**: Python, scikit-learn, pandas, Flask, HTML/CSS, Docker, Microsoft Azure, Git
 - [Live Demo](https://appendicitisapp-dnf3btg7btapemd4.eastus-01.azurewebsites.net/) | [Repository](https://github.com/danieldema/appendicitis_analysis)
 
