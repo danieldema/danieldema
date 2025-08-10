@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a data science graduate student passionate about building creative, data-driven solutions and exploring new technologies. I enjoy turning ideas into code and using data to solve real-world problems.
+I'm a data science graduate student. I enjoy using math and code to solve real world problems and learn new things along the way.
 
 ## Featured Projects
 
