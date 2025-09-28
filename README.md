@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a data science graduate student. I enjoy using math and code to solve real world problems and learn new things along the way.
+I'm a data science graduate student. I enjoy using math and code to solve real world problems.
 
 ## Featured Projects
 
