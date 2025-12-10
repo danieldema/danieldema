@@ -26,10 +26,4 @@ A cloud version of my resume built with Flask and deployed on AWS Elastic Beanst
 - **Tools & Platforms**: Git, Docker, Jupyter Notebook, VS Code, RStudio, Microsoft Excel, LaTeX
 - **Databases & Cloud**: PostgreSQL, Supabase, Microsoft Azure, Retool 
 
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/danieldema/)
-- [Email](mailto:danieldema42@gmail.com)
-- [Portfolio Website](https://danieldema.github.io/)
-
 ---
