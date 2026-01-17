@@ -25,5 +25,3 @@ A cloud version of my resume built with Flask and deployed on AWS Elastic Beanst
 - **Libraries & Frameworks**: scikit-learn, pandas, NumPy, Matplotlib, NLTK, Flask, XGBoost
 - **Tools & Platforms**: Git, Docker, Jupyter Notebook, VS Code, RStudio, Microsoft Excel, LaTeX
 - **Databases & Cloud**: PostgreSQL, AWS, Microsoft Azure
-
----
