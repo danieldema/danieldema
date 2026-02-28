@@ -16,7 +16,7 @@ A longitudinal analysis of the OASIS MRI dataset for predictive inference of bio
 
 ### [Cloud Resume](http://danieldema-resume.us-east-2.elasticbeanstalk.com/)
 A cloud version of my resume built with Flask and deployed on AWS Elastic Beanstalk, featuring visitor analytics, PDF downloads, and responsive design.
-- **Tech Stack**: Python, Flask, AWS, Git, MySQL, HTML/CSS
+- **Tech Stack**: Python, Flask, AWS, Git, HTML/CSS
 - [Repository](https://github.com/danieldema/cloud-resume)
 
 ## Tools & Software
