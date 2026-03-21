@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a data science graduate student. I enjoy using math and code to solve real world problems.
+I'm a data science graduate student. I like using math and code to solve real-world problems.
 
 ## Featured Projects
 
@@ -9,19 +9,9 @@ A machine learning approach for predicting appendicitis in pediatric patients, f
 - **Tech Stack**: Python, scikit-learn, pandas, Flask, HTML/CSS, Docker, Microsoft Azure, Git
 - [Repository](https://github.com/danieldema/appendicitis_analysis)
 
-### [Predictive Inference for Cognitive Decline Using Mixed Effects Models](https://github.com/danieldema/MATH6642/tree/main/final_project)
-A longitudinal analysis of the OASIS MRI dataset for predictive inference of biological and socioeconomic factors that contribute to cognitive decline, and an exploration of the limitations of mixed effects models on non-normal response data.
-- **Tech Stack**: R, RStudio, Git
-- [Repository](https://github.com/danieldema/MATH6642/tree/main/final_project)
-
-### [Cloud Resume](http://danieldema-resume.us-east-2.elasticbeanstalk.com/)
-A cloud version of my resume built with Flask and deployed on AWS Elastic Beanstalk, featuring visitor analytics, PDF downloads, and responsive design.
-- **Tech Stack**: Python, Flask, AWS, Git, HTML/CSS
-- [Repository](https://github.com/danieldema/cloud-resume)
-
 ## Tools & Software
 
-- **Languages**: Python, SQL, R, HTML/CSS, JavaScript/TypeScript
-- **Libraries & Frameworks**: scikit-learn, XGBoost, PyTorch, pandas, NumPy, Matplotlib, Flask, FastAPI
+- **Languages**: Python, JavaScript/TypeScript, SQL, R, HTML/CSS
+- **Libraries & Frameworks**: scikit-learn, XGBoost, PyTorch, pandas, NumPy, FastAPI, Flask, React
 - **Tools & Platforms**: Git, Docker, Jupyter Notebook, VS Code, RStudio, Microsoft Excel, LaTeX
 - **Databases & Cloud**: PostgreSQL, GCP, AWS, Microsoft Azure
