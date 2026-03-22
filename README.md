@@ -9,7 +9,7 @@ A machine learning approach for predicting appendicitis in pediatric patients, f
 - **Tech Stack**: Python, scikit-learn, pandas, Flask, HTML/CSS, Docker, Microsoft Azure, Git
 - [Repository](https://github.com/danieldema/appendicitis_analysis)
 
-## Tools & Software
+## My Tech Stack
 
 - **Languages**: Python, JavaScript/TypeScript, SQL, R, HTML/CSS
 - **Libraries & Frameworks**: scikit-learn, XGBoost, PyTorch, pandas, NumPy, FastAPI, Flask, React
