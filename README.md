@@ -4,14 +4,15 @@ I'm a data science graduate student. I like using math and code to solve real-wo
 
 ## Featured Projects
 
-### [Appendicitis Prediction System](https://github.com/danieldema/appendicitis_analysis)
-A machine learning approach for predicting appendicitis in pediatric patients, featuring model comparison and web deployment of a 97% accurate random forest model.
-- **Tech Stack**: Python, scikit-learn, pandas, Flask, HTML/CSS, Docker, Microsoft Azure, Git
-- [Repository](https://github.com/danieldema/appendicitis_analysis)
+### Soil Moisture Analyzer
+A full-stack web app allowing users to sign up and track their plant's soil moisture over time using computer vision.
+- **Tech Stack**: Python (PyTorch, FastAPI, SQLAlchemy, Pydantic, python-jose), PostgreSQL, TypeScript, Next.js, Docker
+- [Live Demo](https://soil-moisture-omega.vercel.app/)
 
 ## My Tech Stack
 
-- **Languages**: Python, JavaScript/TypeScript, SQL, R, HTML/CSS
-- **Libraries & Frameworks**: scikit-learn, XGBoost, PyTorch, pandas, NumPy, FastAPI, Flask, React
-- **Tools & Platforms**: Git, Docker, Jupyter Notebook, VS Code, RStudio, Microsoft Excel, LaTeX
-- **Databases & Cloud**: PostgreSQL, GCP, AWS, Microsoft Azure
+- **Languages**: Python, Go (Golang), Java, JavaScript, TypeScript, SQL, R, HTML/CSS
+- **Libraries**: scikit-learn, PyTorch, pandas, NumPy, SciPy, React
+- **Frameworks**: FastAPI, Next.js, Spring Boot
+- **Tools**: Git, Docker
+- **Databases & Cloud**: PostgreSQL, GCP (Google Cloud Platform)
