@@ -9,6 +9,12 @@ A full-stack web app allowing users to sign up and track their plant's soil mois
 - **Tech Stack**: Python (PyTorch, FastAPI, SQLAlchemy, Pydantic, python-jose), PostgreSQL, TypeScript, Next.js, Docker
 - [Live Demo](https://soil-moisture-omega.vercel.app/)
 
+### AI Resume Tailor
+
+An AI-powered resume tailoring tool that analyzes skill gaps between a resume and job description using Google Gemini, and generates targeted suggestions or a rewritten resume as a PDF download.
+- **Tech Stack**: Java, Spring Boot, TypeScript, React, Docker
+- [Live Demo](https://soil-moisture-omega.vercel.app/)
+
 ## My Tech Stack
 
 - **Languages**: Python, Go (Golang), Java, JavaScript, TypeScript, SQL, R, HTML/CSS
