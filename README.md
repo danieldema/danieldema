@@ -13,7 +13,7 @@ A full-stack web app allowing users to sign up and track their plant's soil mois
 
 An AI-powered resume tailoring tool that analyzes skill gaps between a resume and job description using Google Gemini, and generates targeted suggestions or a rewritten resume as a PDF download.
 - **Tech Stack**: Java, Spring Boot, TypeScript, React, Docker
-- [Live Demo](https://soil-moisture-omega.vercel.app/)
+- [Live Demo](https://www.resume-tailor.net/)
 
 ## My Tech Stack
 
