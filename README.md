@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a data science graduate student. I like using math and code to solve real-world problems.
+I'm a data science graduate student and software engineer intern. I like using math and code to solve real-world problems.
 
 ## Featured Projects
 
@@ -17,7 +17,7 @@ An AI-powered resume tailoring tool that analyzes skill gaps between a resume an
 
 ## My Tech Stack
 
-- **Languages**: Python, Go (Golang), Java, JavaScript, TypeScript, SQL, R, HTML/CSS
+- **Languages**: Python, Go (Golang), Rust, Java, JavaScript, TypeScript, SQL, R, HTML/CSS
 - **Libraries**: scikit-learn, PyTorch, pandas, NumPy, SciPy, React
 - **Frameworks**: FastAPI, Next.js, Spring Boot
 - **Tools**: Git, Docker
