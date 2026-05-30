@@ -4,6 +4,11 @@ I'm a data science graduate student and software engineer intern. I like using m
 
 ## Featured Projects
 
+### Reinforcement Learning System for 2026 Hantavirus Outbreak
+An inference engine that uses Bayesian reinforcement learning methods for infected contact tracing and outbreak simulation, visualized through a live dashboard.
+- **Tech Stack**: Python, Go, TypeScript, React, Docker
+- [Live Demo](https://dashboard-production-2e30.up.railway.app/)
+
 ### Soil Moisture Analyzer
 A full-stack web app allowing users to sign up and track their plant's soil moisture over time using computer vision.
 - **Tech Stack**: Python (PyTorch, FastAPI, SQLAlchemy, Pydantic, python-jose), PostgreSQL, TypeScript, Next.js, Docker
@@ -15,7 +20,7 @@ An AI-powered resume tailoring tool that analyzes skill gaps between a resume an
 - **Tech Stack**: Java, Spring Boot, TypeScript, React, Docker
 - [Live Demo](https://www.resume-tailor.net/)
 
-## My Tech Stack
+## My Technical Skills
 
 - **Languages**: Python, Go (Golang), Rust, Java, JavaScript, TypeScript, SQL, R, HTML/CSS
 - **Libraries**: scikit-learn, PyTorch, pandas, NumPy, SciPy, React
