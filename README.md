@@ -5,7 +5,7 @@ I'm a data science graduate student and software engineer intern. I like using m
 ## Featured Projects
 
 ### Reinforcement Learning System for 2026 Hantavirus Outbreak
-An inference engine that uses Bayesian reinforcement learning methods for infected contact tracing and outbreak simulation, visualized through a live dashboard.
+A Bayesian reinforcement learning system for epidemic contact tracing and outbreak simulation, visualized through a live dashboard.
 - **Tech Stack**: Python, Go, TypeScript, React, Docker
 - [Live Demo](https://dashboard-production-2e30.up.railway.app/)
 
